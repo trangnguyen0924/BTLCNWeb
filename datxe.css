@@ -92,7 +92,26 @@
 	display: block;
 }
 
-
+#main #right ul{
+	text-decoration: none;
+	list-style: none;
+	color: #5512C9 ;
+	background: #D1BAD9;
+	font-family: papyrus;
+	font-weight:bold;
+}
+#footer ul{
+	background: pink;
+	list-style: none;
+	font-family: papyrus;
+	position: relative;
+	font-weight: bold;
+	display: block;
+}
+#footer ul li{
+display: inline-block;
+text-decoration: none;
+}
 
 
 
